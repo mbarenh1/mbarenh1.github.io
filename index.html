@@ -22,16 +22,27 @@
   </header>
 
   <!-- Hero / Introduction -->
-  <main class="container">
-    <section id="about" class="intro-section">
-      <h1>Hello, I'm <span class="highlight">Meira Barenholtz</span>.</h1>
+ <section id="about" class="intro-section">
+  <div class="intro-grid">
+    <div class="intro-avatar">
+      <!-- Upload your image to the repo root named 'headshot.jpg' -->
+      <img src="./headshot.jpg" alt="Profile photo" class="headshot-img">
+    </div>
+    <div class="intro-text">
+      <h1>Hello, I'm <span class="highlight">Your Name</span>.</h1>
       <p class="subtitle">Computational Biology M.Sc. Student | Researcher</p>
       <p class="bio">
-        Welcome to my personal site. I explore the intersection of genetics and microbial systems. Here you can find my academic history, active research interests, 
-        and computational projects.
+        Investigating the intersection of genetics, data modeling, and microbial systems. 
+        Previously focused on host-microbiome interactions and metabolic profiles; currently 
+        developing computational pipelines for large-scale biological data.
       </p>
-    </section>
-
+      <div class="quick-links">
+        <a href="#projects" class="btn btn-primary">View Projects</a>
+        <a href="mailto:your.email@institution.edu" class="btn btn-secondary">Get in Touch</a>
+      </div>
+    </div>
+  </div>
+   
     <!-- Research & Publications Section -->
     <section id="research" class="content-section">
       <h2>Research Focus</h2>
@@ -59,6 +70,16 @@
           <a href="https://github.com/your-username" class="link" target="_blank">View on GitHub &rarr;</a>
         </div>
       </div>
+      <div class="card">
+  <div class="tag-row">
+    <span class="tag">R</span>
+    <span class="tag">Bioconductor</span>
+    <span class="tag">Genetics</span>
+  </div>
+  <h3>Differential Expression & Pathway Pipeline</h3>
+  <p>Automated pipeline for statistical normalization and volcano plot generation from raw count matrices.</p>
+  <a href="https://github.com/your-username/repo-name" class="link" target="_blank">View Repository &rarr;</a>
+</div>
     </section>
 
     <!-- Contact & Links -->
