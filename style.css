@@ -1,6 +1,6 @@
 :root {
-  --bg-color: #0d1117;          /* GitHub/terminal dark tone */
-  --surface-color: #161b22;     /* Elevated dark card tone */
+  --bg-color: #e6edf3;          /* GitHub/terminal dark tone */
+  --surface-color: #0d1117;     /* Elevated dark card tone */
   --text-main: #e6edf3;         /* Bright, readable off-white */
   --text-muted: #8b949e;        /* Subtle slate text */
   --primary: #38bdf8;           /* Vivid cyan accent */
