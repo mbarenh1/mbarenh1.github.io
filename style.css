@@ -1,14 +1,14 @@
 :root {
-  --bg-color: #f8fafc;        /* Soft slate white */
-  --surface-color: #ffffff;   /* Pure card white */
-  --text-main: #0f172a;       /* Deep slate */
-  --text-muted: #475569;      /* Readable charcoal */
-  --primary: #0d9488;         /* Deep teal */
-  --primary-hover: #0f766e;
-  --accent: #f1f5f9;          /* Subtle pill/tag background */
-  --border-color: #e2e8f0;    /* Crisp light border */
-  --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
-  --shadow-hover: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
+  --bg-color: #0d1117;          /* GitHub/terminal dark tone */
+  --surface-color: #161b22;     /* Elevated dark card tone */
+  --text-main: #e6edf3;         /* Bright, readable off-white */
+  --text-muted: #8b949e;        /* Subtle slate text */
+  --primary: #38bdf8;           /* Vivid cyan accent */
+  --primary-hover: #7dd3fc;
+  --accent: rgba(56, 189, 248, 0.12); /* Translucent glow pill */
+  --border-color: #30363d;      /* Crisp dark border */
+  --shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  --shadow-hover: 0 10px 25px rgba(56, 189, 248, 0.15);
 }
 
 * {
