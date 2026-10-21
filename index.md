@@ -1,8 +1,7 @@
 <!--write the index.md code for me to create a personal website on github. I want a dark background, my headshot, and a section about my interests-->
 
 ---
-layout: default
-title: Meira Tovah Barenholtz
+Meira Tovah Barenholtz
 ---
 
 <style>
@@ -108,22 +107,10 @@ title: Meira Tovah Barenholtz
     margin-bottom: 0.35rem;
   }
 
-  footer {
-    text-align: center;
-    border-top: 1px solid var(--border);
-    padding-top: 1.5rem;
-    color: var(--text-muted);
-    font-size: 0.85rem;
-  }
+  <footer>
+  <p>© 2026 Meira Tovah Barenholtz • Hosted on GitHub Pages</p>
+</footer>
 
-  a {
-    color: var(--accent);
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
 </style>
 
 <div class="container">
