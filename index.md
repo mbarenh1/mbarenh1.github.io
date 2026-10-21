@@ -1,4 +1,4 @@
-write the index.md code for me to create a personal website on github. I want a dark background, my headshot, and a section about my interests
+<!--write the index.md code for me to create a personal website on github. I want a dark background, my headshot, and a section about my interests-->
 
 ---
 layout: default
