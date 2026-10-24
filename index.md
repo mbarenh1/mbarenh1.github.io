@@ -220,12 +220,8 @@ Meira Barenholtz | Genetics Researcher & Educator
      actual image file path or URL.
      ========================================================================== -->
 <header class="profile-header">
-  <div class="headshot-wrapper">
-  <img 
-    src="./headshot.jpg" 
-    alt="Meira Barenholtz" 
-    class="headshot-img"
-  />
+ <div class="headshot-wrapper">
+  <img src="{{ '/headshot.jpg' | relative_url }}" alt="Meira Barenholtz" class="headshot-img" />
 </div>
   <h1 style="margin: 0; font-size: 2rem; font-weight: 800; letter-spacing: -0.02em;">Meira Barenholtz</h1>
   <p style="color: var(--accent-blue); font-size: 1.05rem; margin: 0.4rem 0 1rem 0; font-weight: 500;">
