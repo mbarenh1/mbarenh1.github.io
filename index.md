@@ -1,6 +1,5 @@
 <!-- make a personal website for me with index.md. I want a dark gradient background, a headshot, as well as summaries of the projects I've worked on and what my hobbies are. Use my uploaded resume as a guide. Write an explanation for each chunk of code for how it functions. -->
 
----
 Meira Barenholtz | Genetics Researcher & Educator
 ---
 
