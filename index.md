@@ -239,8 +239,14 @@ Meira Barenholtz | Genetics Researcher & Educator
   </div>
 
   <div class="social-links">
-    <a href="mailto:mbarenh1@gmail.com" class="contact-pill">Email</a>
-    <span style="color: var(--text-muted);">&bull;</span>
+    <a 
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=mbarenh1@gmail.com" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  class="contact-pill"
+>
+  Email Me
+</a>
     <a href="tel:551-275-9663" class="social-link">053-951-7420</a>
     <span style="color: var(--text-muted);">&bull;</span>
     <span class="social-link">Rehovot, Israel</span>
