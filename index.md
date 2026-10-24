@@ -222,13 +222,12 @@ title: Meira Barenholtz | Genetics Researcher & Educator
      ========================================================================== -->
 <header class="profile-header">
   <div class="headshot-wrapper">
-    <img 
-      src="assets/headshot.jpg" 
-      alt="Meira Barenholtz" 
-      class="headshot-img"
-      onerror="this.src='https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=320&q=80'"
-    />
-  </div>
+  <img 
+    src="./headshot.jpg" 
+    alt="Meira Barenholtz" 
+    class="headshot-img"
+  />
+</div>
   <h1 style="margin: 0; font-size: 2rem; font-weight: 800; letter-spacing: -0.02em;">Meira Barenholtz</h1>
   <p style="color: var(--accent-blue); font-size: 1.05rem; margin: 0.4rem 0 1rem 0; font-weight: 500;">
     Genetics Researcher & Molecular Biology Specialist
@@ -245,11 +244,11 @@ title: Meira Barenholtz | Genetics Researcher & Educator
   </div>
 
   <div class="social-links">
-    <a href="mailto:mbarenh1@gmail.com" class="social-link">Email</a>
+    <a href="mailto:mbarenh1@gmail.com" class="contact-pill">Email</a>
     <span style="color: var(--text-muted);">&bull;</span>
-    <a href="tel:551-275-9663" class="social-link">551-275-9663</a>
+    <a href="tel:551-275-9663" class="social-link">053-951-7420</a>
     <span style="color: var(--text-muted);">&bull;</span>
-    <span class="social-link">Teaneck, NJ</span>
+    <span class="social-link">Rehovot, Israel</span>
   </div>
 </header>
 
