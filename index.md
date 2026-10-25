@@ -273,7 +273,7 @@ Meira Barenholtz | Genetics Researcher & Educator
       <span class="card-date">Jan 2025 – May 2026</span>
     </div>
     <p class="card-body">
-      Conducted targeted literature reviews and experimental designs to evaluate the expression patterns of 50+ genes involved in the pathogenesis of Type 1 Diabetes. Processed and statistically evaluated over 2,400 data points to identify significant expression changes while maintaining a 99% data integrity threshold for laboratory records. Compiled comprehensive technical reports on protocols and findings for faculty review.
+      For my senior thesis at Rutgers University, I worked at the intersection of the gut microbiome and human development. Previous studies have shown a significant correlation between antibiotics during early life and development of T1D in NOD mice. Further studies identified pathways in the microbiome as well as host that were perturbed with antibiotics and restored by fecal matter transplant from health mother mice. My work studied how lipid compounds produced by the gut microbiome and proven to have potential anti-inflammatory effects altererd the metabolism of gut epithelial cells via mitochondrial pathways. I experimentally measured these effects through RT-qPCR, qPCR, as well as statistical analysis. In addition, I supported ongoing studies in mice, collecting fecal matter samples to support microbial and metabolimic analysis. I conducted targeted literature reviews and experimental designs to evaluate the expression patterns of 30+ genes involved in the pathogenesis of Type 1 Diabetes. I processed and statistically evaluated over 2,400 data points to identify significant expression changes while maintaining a 99% data integrity threshold for laboratory records. I compiled comprehensive technical reports on protocols and findings for faculty review. 
     </p>
     <div class="card-tags">
       <span class="card-tag">RT-qPCR</span>
@@ -293,7 +293,7 @@ Meira Barenholtz | Genetics Researcher & Educator
       <span class="card-date">Jun 2025 – Aug 2025</span>
     </div>
     <p class="card-body">
-      Investigated molecular disease mechanisms and localized protein expression using <em>Xenopus</em> developmental models. Executed high-precision immunofluorescent antibody staining protocols, performed binocular and confocal microscopy on 30+ experimental tissue samples, and conducted morphometric cell area quantifications to evaluate clinical correlates.
+      I investigated the development of the left-right body axis via protein gradients in the gastrocoel roof plate using <em>Xenopus</em> developmental models. To aid in this research, I executed high-precision immunofluorescent antibody staining protocols on Xenopus models. In addition, I performed binocular and confocal microscopy on 30+ experimental tissue samples to examine alterations in heart development in control and knockout models. Finally, I conducted morphometric cell area quantifications to evaluate the effect of knockouts on gastrocoel roof plate cell morphology.
     </p>
     <div class="card-tags">
       <span class="card-tag">Immunofluorescence</span>
