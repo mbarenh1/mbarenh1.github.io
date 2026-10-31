@@ -245,6 +245,15 @@ Meira Barenholtz | Genetics Researcher & Educator
     >
       Pilpel Lab @ Weizmann &nearr;
     </a>
+       <a 
+      href="[[https://www.weizmann.ac.il/molgen/pilpel/](https://longitude.weizmann.ac.il/)](https://www.linkedin.com/in/meira-barenholtz-698b89346/)" 
+      target="_blank" 
+      rel="noopener noreferrer" 
+      class="badge" 
+      style="text-decoration: none; display: inline-flex; align-items: center; gap: 0.35rem;"
+    >
+      LinkedIn &nearr;
+    </a>
   </div>
 
   <div class="social-links">
