@@ -237,7 +237,7 @@ Meira Barenholtz | Genetics Researcher & Educator
     <span class="badge">Henry Rutgers Scholar</span>
     <!-- Link to Pilpel Lab -->
     <a 
-      href="https://www.weizmann.ac.il/molgen/pilpel/" 
+      href="[https://www.weizmann.ac.il/molgen/pilpel/](https://longitude.weizmann.ac.il/)" 
       target="_blank" 
       rel="noopener noreferrer" 
       class="badge" 
