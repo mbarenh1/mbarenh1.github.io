@@ -245,22 +245,39 @@ Meira Barenholtz | Genetics Researcher & Educator
     >
       Pilpel Lab @ Weizmann &nearr;
     </a>
-
-
-  <div class="social-links">
+ </div>
+ 
+ <div class="social-links">
     <a 
-  href="https://mail.google.com/mail/?view=cm&fs=1&to=mbarenh1@gmail.com" 
-  target="_blank" 
-  rel="noopener noreferrer" 
-  class="contact-pill"
->
-  Email Me
-</a>
+      href="https://mail.google.com/mail/?view=cm&fs=1&to=mbarenh1@gmail.com" 
+      target="_blank" 
+      rel="noopener noreferrer" 
+      class="contact-pill"
+    >
+      Email Me
+    </a>
+    <a 
+      href="https://www.linkedin.com/in/meira-barenholtz-698b89346/" 
+      target="_blank" 
+      rel="noopener noreferrer" 
+      class="social-link"
+    >
+      LinkedIn
+    </a>
+    <span style="color: var(--text-muted);">&bull;</span>
+    <a 
+      href="https://longitude.weizmann.ac.il/" 
+      target="_blank" 
+      rel="noopener noreferrer" 
+      class="social-link"
+    >
+      Pilpel Lab
+    </a>
+    <span style="color: var(--text-muted);">&bull;</span>
     <a href="tel:551-275-9663" class="social-link">053-951-7420</a>
     <span style="color: var(--text-muted);">&bull;</span>
     <span class="social-link">Rehovot, Israel</span>
   </div>
-</header>
 
 <!-- ==========================================================================
      SECTION 3: Research & Scientific Projects
