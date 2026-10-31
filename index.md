@@ -235,9 +235,9 @@ Meira Barenholtz | Genetics Researcher & Educator
     <span class="badge">Summa Cum Laude (4.0 GPA)</span>
     <span class="badge">Paul Robeson Scholar</span>
     <span class="badge">Henry Rutgers Scholar</span>
-    <!-- Link to Pilpel Lab -->
+    <!-- Pilpel Lab Link -->
     <a 
-      href="[[https://www.weizmann.ac.il/molgen/pilpel/](https://longitude.weizmann.ac.il/)](https://longitude.weizmann.ac.il/)" 
+      href="https://longitude.weizmann.ac.il/" 
       target="_blank" 
       rel="noopener noreferrer" 
       class="badge" 
@@ -245,16 +245,7 @@ Meira Barenholtz | Genetics Researcher & Educator
     >
       Pilpel Lab @ Weizmann &nearr;
     </a>
-       <a 
-      href="[[https://www.weizmann.ac.il/molgen/pilpel/](https://longitude.weizmann.ac.il/)](https://www.linkedin.com/in/meira-barenholtz-698b89346/)" 
-      target="_blank" 
-      rel="noopener noreferrer" 
-      class="badge" 
-      style="text-decoration: none; display: inline-flex; align-items: center; gap: 0.35rem;"
-    >
-      LinkedIn &nearr;
-    </a>
-  </div>
+
 
   <div class="social-links">
     <a 
