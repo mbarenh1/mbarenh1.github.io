@@ -230,11 +230,21 @@ Meira Barenholtz | Genetics Researcher & Educator
     Graduating Senior in Genetics at Rutgers University (Summa Cum Laude, 4.0 GPA). Passionate about translational genetics, computational analysis, and biomedical research bridging bench science with clinical insights.
   </p>
 
-  <div class="badge-list">
+ <div class="badge-list">
     <span class="badge">Rutgers University '26</span>
     <span class="badge">Summa Cum Laude (4.0 GPA)</span>
     <span class="badge">Paul Robeson Scholar</span>
     <span class="badge">Henry Rutgers Scholar</span>
+    <!-- Link to Pilpel Lab -->
+    <a 
+      href="https://www.weizmann.ac.il/molgen/pilpel/" 
+      target="_blank" 
+      rel="noopener noreferrer" 
+      class="badge" 
+      style="text-decoration: none; display: inline-flex; align-items: center; gap: 0.35rem;"
+    >
+      Pilpel Lab @ Weizmann &nearr;
+    </a>
   </div>
 
   <div class="social-links">
