@@ -1,3 +1,12 @@
+<!-- ==========================================================================
+     prompts I asked gemini in order to build the website: 
+    make a personal website for me with index.md. I want a dark gradient background, a headshot, as well as summaries of the projects I've worked on and what my hobbies are. Use my uploaded resume as a guide. Write an explanation for each chunk of code for how it functions.
+     why isnt it including my uploaded headshot that is labeled headshot.jpg?
+     why does it say "email" but then not do anything when you click on email?
+     how do I add a link to this to connect to the Pilpel website at Weizmann:
+     ========================================================================== -->
+
+
 ---
 layout: default
 title: Meira Barenholtz | Computational & Molecular Biology
