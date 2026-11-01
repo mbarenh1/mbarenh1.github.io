@@ -537,6 +537,70 @@
 </div>
 
 <!-- ==========================================================================
+     SECTION: Goals for Coding Python with AI Course
+     ========================================================================== -->
+<h2 class="section-title">Course Goals: Coding Python with AI</h2>
+
+<div class="card">
+  <div class="card-header">
+    <div>
+      <h3 class="card-title">Leveraging AI-Assisted Pipelines for Computational Genomics</h3>
+      <div class="card-subtitle">Personal Learning & Technical Milestones</div>
+    </div>
+    <span class="card-date">Current Focus</span>
+  </div>
+  <p class="card-body" style="margin-bottom: 1.25rem;">
+    As biological datasets grow in volume and complexity, integrating automated programming workflows and generative AI tools becomes vital for accelerating discovery. My primary objectives in this course center on bridging empirical wet-lab intuition with scalable, AI-enhanced software development:
+  </p>
+
+  <div style="display: grid; grid-template-columns: 1fr; gap: 1rem;">
+    <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 10px; padding: 1rem;">
+      <strong style="color: var(--accent-blue); display: block; margin-bottom: 0.25rem;">
+        1. Accelerated Prototyping & Pipeline Development
+      </strong>
+      <span style="color: var(--text-secondary); font-size: 0.92rem;">
+        Master prompt engineering and LLM pair-programming workflows to rapidly draft, debug, and optimize complex Python scripts for genomics data processing and tabular wrangling.
+      </span>
+    </div>
+
+    <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 10px; padding: 1rem;">
+      <strong style="color: var(--accent-blue); display: block; margin-bottom: 0.25rem;">
+        2. Scalable Data Structures & Algorithm Design
+      </strong>
+      <span style="color: var(--text-secondary); font-size: 0.92rem;">
+        Deepen understanding of modular programming, object-oriented concepts, and memory-efficient data structures to handle high-dimensional biological inputs, such as single-cell counts and sequence matrices.
+      </span>
+    </div>
+
+    <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 10px; padding: 1rem;">
+      <strong style="color: var(--accent-blue); display: block; margin-bottom: 0.25rem;">
+        3. Automated Code Quality, Testing & Documentation
+      </strong>
+      <span style="color: var(--text-secondary); font-size: 0.92rem;">
+        Utilize AI tools to generate rigorous unit test suites, refactor legacy scripts for readability, and automate comprehensive documentation standards for reproducible research software.
+      </span>
+    </div>
+
+    <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 10px; padding: 1rem;">
+      <strong style="color: var(--accent-blue); display: block; margin-bottom: 0.25rem;">
+        4. Independent Problem Formulation
+      </strong>
+      <span style="color: var(--text-secondary); font-size: 0.92rem;">
+        Transition from guided coding exercises to formulating biological hypotheses directly as computational workflows, using AI as an interactive debugger and sounding board for architectural choices.
+      </span>
+    </div>
+  </div>
+
+  <div class="card-tags" style="margin-top: 1.25rem;">
+    <span class="card-tag">Python 3</span>
+    <span class="card-tag">AI-Assisted Pair Programming</span>
+    <span class="card-tag">Modular Architecture</span>
+    <span class="card-tag">Automated Testing</span>
+    <span class="card-tag">Bioinformatics Automation</span>
+  </div>
+</div>
+
+<!-- ==========================================================================
      SECTION 7: Hobbies & Personal Pursuits
      ========================================================================== -->
 <h2 class="section-title">Hobbies & Personal Pursuits</h2>
