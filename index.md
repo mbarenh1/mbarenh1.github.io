@@ -7,10 +7,8 @@
      ========================================================================== -->
 
 
----
-layout: default
-title: Meira Barenholtz | Computational & Molecular Biology
----
+Meira Barenholtz | Computational & Molecular Biology
+
 
 <!-- ==========================================================================
      SECTION 1: Global Theme Styles & Dark Gradient Background
