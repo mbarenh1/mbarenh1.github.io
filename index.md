@@ -6,8 +6,7 @@
      how do I add a link to this to connect to the Pilpel website at Weizmann:
      ========================================================================== -->
 
-
-Meira Barenholtz | Computational & Molecular Biology
+<h1>Meira Barenholtz | Computational & Molecular Biology</h1>
 
 
 <!-- ==========================================================================
