@@ -544,59 +544,59 @@
 <div class="card">
   <div class="card-header">
     <div>
-      <h3 class="card-title">Leveraging AI-Assisted Pipelines for Computational Genomics</h3>
-      <div class="card-subtitle">Personal Learning & Technical Milestones</div>
+      <h3 class="card-title">Building Core Programming Fluency with AI Assistance</h3>
+      <div class="card-subtitle">Foundations & Learning Objectives</div>
     </div>
-    <span class="card-date">Current Focus</span>
+    <span class="card-date">Introductory Course</span>
   </div>
   <p class="card-body" style="margin-bottom: 1.25rem;">
-    As biological datasets grow in volume and complexity, integrating automated programming workflows and generative AI tools becomes vital for accelerating discovery. My primary objectives in this course center on bridging empirical wet-lab intuition with scalable, AI-enhanced software development:
+    Coming from a wet-lab background, my goal in this course is to become genuinely comfortable writing and reading Python without getting stuck on early syntax hurdles. I want to learn how to use AI responsibly as a collaborative tutor—helping me debug, explain unfamiliar errors, and build clean coding habits from the ground up:
   </p>
 
-  <div style="display: grid; grid-template-columns: 1fr; gap: 1rem;">
-    <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 10px; padding: 1rem;">
-      <strong style="color: var(--accent-blue); display: block; margin-bottom: 0.25rem;">
-        1. Accelerated Prototyping & Pipeline Development
+  <div style="display: grid; grid-template-columns: 1fr; gap: 0.85rem;">
+    <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 10px; padding: 0.9rem 1.1rem;">
+      <strong style="color: var(--accent-blue); display: block; margin-bottom: 0.2rem;">
+        1. Solidify Core Python Foundations
       </strong>
-      <span style="color: var(--text-secondary); font-size: 0.92rem;">
-        Master prompt engineering and LLM pair-programming workflows to rapidly draft, debug, and optimize complex Python scripts for genomics data processing and tabular wrangling.
+      <span style="color: var(--text-secondary); font-size: 0.91rem;">
+        Get comfortable with basic syntax, control flow (loops, conditionals), custom functions, and standard data structures (lists, dictionaries) so I can write scripts independently.
       </span>
     </div>
 
-    <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 10px; padding: 1rem;">
-      <strong style="color: var(--accent-blue); display: block; margin-bottom: 0.25rem;">
-        2. Scalable Data Structures & Algorithm Design
+    <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 10px; padding: 0.9rem 1.1rem;">
+      <strong style="color: var(--accent-blue); display: block; margin-bottom: 0.2rem;">
+        2. Effective Debugging with AI
       </strong>
-      <span style="color: var(--text-secondary); font-size: 0.92rem;">
-        Deepen understanding of modular programming, object-oriented concepts, and memory-efficient data structures to handle high-dimensional biological inputs, such as single-cell counts and sequence matrices.
+      <span style="color: var(--text-secondary); font-size: 0.91rem;">
+        Learn how to ask AI the right questions when code breaks, using it to explain stack traces and logic bugs rather than just copy-pasting answers without understanding the underlying error.
       </span>
     </div>
 
-    <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 10px; padding: 1rem;">
-      <strong style="color: var(--accent-blue); display: block; margin-bottom: 0.25rem;">
-        3. Automated Code Quality, Testing & Documentation
+    <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 10px; padding: 0.9rem 1.1rem;">
+      <strong style="color: var(--accent-blue); display: block; margin-bottom: 0.2rem;">
+        3. Practical Data & File Handling
       </strong>
-      <span style="color: var(--text-secondary); font-size: 0.92rem;">
-        Utilize AI tools to generate rigorous unit test suites, refactor legacy scripts for readability, and automate comprehensive documentation standards for reproducible research software.
+      <span style="color: var(--text-secondary); font-size: 0.91rem;">
+        Practice opening, parsing, and cleaning simple CSV and text files to automate repetitive tasks that usually take hours in spreadsheets.
       </span>
     </div>
 
-    <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 10px; padding: 1rem;">
-      <strong style="color: var(--accent-blue); display: block; margin-bottom: 0.25rem;">
-        4. Independent Problem Formulation
+    <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 10px; padding: 0.9rem 1.1rem;">
+      <strong style="color: var(--accent-blue); display: block; margin-bottom: 0.2rem;">
+        4. Gaining Coding Confidence
       </strong>
-      <span style="color: var(--text-secondary); font-size: 0.92rem;">
-        Transition from guided coding exercises to formulating biological hypotheses directly as computational workflows, using AI as an interactive debugger and sounding board for architectural choices.
+      <span style="color: var(--text-secondary); font-size: 0.91rem;">
+        Move past the intimidation of an empty terminal or script, building enough muscle memory to tackle small, real-world research problems step-by-step.
       </span>
     </div>
   </div>
 
   <div class="card-tags" style="margin-top: 1.25rem;">
-    <span class="card-tag">Python 3</span>
-    <span class="card-tag">AI-Assisted Pair Programming</span>
-    <span class="card-tag">Modular Architecture</span>
-    <span class="card-tag">Automated Testing</span>
-    <span class="card-tag">Bioinformatics Automation</span>
+    <span class="card-tag">Python Basics</span>
+    <span class="card-tag">AI-Assisted Debugging</span>
+    <span class="card-tag">File Processing</span>
+    <span class="card-tag">Functions & Control Flow</span>
+    <span class="card-tag">Problem Solving</span>
   </div>
 </div>
 
